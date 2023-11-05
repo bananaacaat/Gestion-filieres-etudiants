@@ -55,15 +55,15 @@ Here are some screenshots of the project in action:
 ![get stud](https://github.com/bananaacaat/Springboot/assets/147453939/9054b6b1-0051-464c-8625-293875904d3e)
 
 
-#### POST
+#### POST STUDENT
 ![post stud](https://github.com/bananaacaat/Springboot/assets/147453939/857f52f8-4cd0-4a8e-be33-7c0c3d69277a)
 
 
-#### PUT
+#### PUT STUDENT
 ![put stud](https://github.com/bananaacaat/Springboot/assets/147453939/590438a5-ce2e-48db-96db-931a3e437900)
 
 
-#### DELETE
+#### DELETE STUDENT
 ![delete stud](https://github.com/bananaacaat/Springboot/assets/147453939/590b1e91-593f-4655-94f8-73c6ed8eb106)
 
 ## Features
