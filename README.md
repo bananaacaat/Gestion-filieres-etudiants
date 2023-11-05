@@ -21,15 +21,6 @@ This project is built using the following technologies and tools:
 - [MySQL](https://www.mysql.com/): A popular open-source relational database management system.
 - [Postman](https://www.postman.com/): A collaborative platform for API development and testing.
 
-## Usage
-You can access the API by visiting the following endpoints:
-
-- Get all items: GET /api/items
-- Get an item by ID: GET /api/items/{id}
-- Create a new item: POST /api/items
-- Update an item: PUT /api/items/{id}
-- Delete an item: DELETE /api/items/{id}
-
 
 ## Screenshots
 
